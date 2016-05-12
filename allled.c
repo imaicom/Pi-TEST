@@ -1,4 +1,4 @@
-// cc -o swled swled.c -lwiringPi
+// cc -o allled allled.c -lwiringPi
 #include <stdio.h>
 #include <wiringPi.h>
 int main(int argc, char *argv[]) {
