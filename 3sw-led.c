@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <wiringPi.h>
 
-void main() {
+main() {
 	
 	wiringPiSetup();
 	
