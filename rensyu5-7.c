@@ -1,4 +1,4 @@
-/* 練習問題 5-7 */
+/* rensyu mondai 5-7 */
 #include <stdio.h>
 int main(void)
 {
@@ -16,9 +16,9 @@ int main(void)
 			harai = a * 0.7;
 			break;
 		default:
-			printf("入力ミス\n");
+			printf("nyuuryoku misu\n");
 			
 	}
-	printf("支払い金額 %d\n",harai);
+	printf("siharai kingaku %d\n",harai);
 	return 0;
 }

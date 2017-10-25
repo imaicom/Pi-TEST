@@ -1,4 +1,4 @@
-/* 練習問題 5-12-1 */
+/* rensyu mondai 5-12-1 */
 #include <stdio.h>
 int main(void)
 {
@@ -10,6 +10,6 @@ int main(void)
 	for(i=0; i<5; i++)
 		s = s + a[i];
 	printf("s = %f\n",s);
-	printf("平均 = %f\n",s/5);
+	printf("heikin = %f\n",s/5);
 	return 0;
 }

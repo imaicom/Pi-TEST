@@ -1,4 +1,4 @@
-/* 練習問題 5-12-2 */
+/* rensyu mondai 5-12-2 */
 #include <stdio.h>
 int main(void)
 {

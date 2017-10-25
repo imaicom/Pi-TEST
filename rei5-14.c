@@ -1,4 +1,4 @@
-/* 例題 5-14 */
+/* reidai 5-14 */
 #include <stdio.h>
 #define NN 5
 int main(void)
@@ -10,4 +10,5 @@ int main(void)
 	}
 	printf("MAX = %d\n",m);
 	return 0;
+	
 }

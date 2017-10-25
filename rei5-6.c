@@ -1,17 +1,17 @@
-/* 例題 5-6 */
+/* reidai 5-6 */
 #include <stdio.h>
 int main(void)
 {
 	int a;
 	scanf("%d",&a);
 	if(a>=70){
-		printf("合格\n");
+		printf("goukaku\n");
 	}
 	else if(a>=40){
-		printf("再試験\n");
+		printf("saisiken\n");
 	}
 	else{
-		printf("不合格\n");
+		printf("fugoukaku\n");
 	}
 	return 0;
 }

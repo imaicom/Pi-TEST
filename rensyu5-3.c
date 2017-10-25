@@ -1,4 +1,4 @@
-/* 練習問題 5-3 */
+/* rensyu mondai 5-3 */
 #include <stdio.h>
 int main(void){
 	char a,b,c,d;

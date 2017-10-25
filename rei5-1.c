@@ -1,4 +1,4 @@
-/* 例題 5-1 */
+/* reidai 5-1 */
 #include <stdio.h>
 int main(void)
 {

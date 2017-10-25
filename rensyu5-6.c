@@ -1,4 +1,4 @@
-/* 練習問題 5-6 */
+/* rensyu mondai 5-6 */
 #include <stdio.h>
 int main(void)
 {
@@ -13,6 +13,6 @@ int main(void)
 	else{
 		harai = a;
 	}
-	printf("支払い金額 %d 円\n",harai);
+	printf("siharai %d en\n",harai);
 	return 0;
 }

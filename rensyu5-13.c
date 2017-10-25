@@ -1,4 +1,4 @@
-/* 練習問題 5-13 */
+/* rensyu mondai 5-13 */
 #include <stdio.h>
 int main(void)
 {
@@ -12,6 +12,6 @@ int main(void)
 			n = 1;
 		}
 	}
-	if(n==0) printf("該当なし\n");
+	if(n==0) printf("gaitou nasi\n");
 	return 0;
 }
