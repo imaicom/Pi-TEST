@@ -3,9 +3,9 @@
 int main(void){
 	char a,b,c,d;
 	a = 0x54;
-	b = 0x72;
-	c = 0x6f;
-	d = 0x75;
+	b = 0x61;
+	c = 0x72;
+	d = 0x6f;
 	printf("%c",a);
 	printf("%c",b);
 	printf("%c",c);
