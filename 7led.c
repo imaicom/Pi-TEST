@@ -5,7 +5,6 @@ main() {
 	
 	wiringPiSetup();
 	
-	
 	pinMode( 2,OUTPUT);	// a
 	pinMode( 0,OUTPUT);	// b
 	pinMode(22,OUTPUT);	// c
