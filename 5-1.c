@@ -1,4 +1,4 @@
-/* Cプログラムの例 */
+/* C program no rei */
 #include <stdio.h>
 int main(void)
 {

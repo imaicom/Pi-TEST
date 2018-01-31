@@ -15,7 +15,10 @@ main() {
    
     while(1) {
 		digitalWrite(23 , digitalRead(30)); // GREEN  TEST
+		printf("%d ",digitalRead(30));
 		digitalWrite(24 , digitalRead(21)); // YELLOW TEST
+		printf("%d ",digitalRead(21));
 		digitalWrite(25 , digitalRead(22)); // RED    TEST
+		printf("%d \n",digitalRead(22));
 	};
 }
