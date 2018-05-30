@@ -14,11 +14,11 @@ main() {
 	pinMode(25,OUTPUT);	// RED    LED
    
     while(1) {
-		digitalWrite(23 , digitalRead(30)); // GREEN  TEST
-		printf("%d ",digitalRead(30));
-		digitalWrite(24 , digitalRead(21)); // YELLOW TEST
-		printf("%d ",digitalRead(21));
-		digitalWrite(25 , digitalRead(22)); // RED    TEST
-		printf("%d \n",digitalRead(22));
+		digitalWrite(23 , 1-digitalRead(30)); // GREEN  TEST
+		printf("%d ",1-digitalRead(30));
+		digitalWrite(24 , 1-digitalRead(21)); // YELLOW TEST
+		printf("%d ",1-digitalRead(21));
+		digitalWrite(25 , 1-digitalRead(22)); // RED    TEST
+		printf("%d \n",1-digitalRead(22));
 	};
 }
